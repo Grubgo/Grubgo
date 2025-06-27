@@ -27,23 +27,16 @@ DevOps:       GitHub Actions · Posthog · Sentry
 
 - 🧩 Product Strategy · UX Design · Urban Logistics  
 - 🔐 Data Infra · Scalable APIs · Growth Loops  
-- 🧠 Learning to think like a CEO — not just a CTO
+- 🧠 Learning to think like a CEO, not just a CTO
 
 ---
 
 📬 Let's Connect
 
 LinkedIn: https://linkedin.com/in/akshatvarahagiri  
-Twitter: https://twitter.com/yourhandle  
-Website: https://yourcompanysite.com  
-Email: akshat@yourcompany.com
+instagram: https://www.instagram.com/akshatvara/
+Email: akshat@grubgo.in
 
 ---
 
 “We're not building another app. We're building trust, speed & growth across India's urban supply graph.”
-
----
-
-GitHub Stats (optional if you want to add):
-
-https://github-readme-stats.vercel.app/api?username=akshatvarahagiri&show_icons=true&theme=radical
