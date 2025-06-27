@@ -35,6 +35,7 @@ DevOps:       GitHub Actions · Posthog · Sentry
 
 LinkedIn: https://linkedin.com/in/akshatvarahagiri  
 instagram: https://www.instagram.com/akshatvara/
+
 Email: akshat@grubgo.in
 
 ---
