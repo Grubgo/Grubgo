@@ -1,6 +1,6 @@
  # 👋 Hi, I’m Akshat Varahagiri
 
-🎯 Building GrubGo — India’s urban supply engine for groceries & essentials.  
+🎯 Building @Grub-go — India’s urban supply engine for groceries & essentials.  
 👨‍💻 Founder | Product + Tech | Hustler in the trenches
 
 ---
